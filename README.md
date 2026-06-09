@@ -1,4 +1,4 @@
-# 🎥 VisionSort (ou o nome que escolher)
+# 🎥 VisionSort
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org)
 [![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-orange.svg)](https://ollama.com)
