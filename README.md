@@ -105,6 +105,6 @@ O script criará subpastas correspondentes automaticamente caso elas não exista
 ---
 
 ## 🔒 Privacidade e Automação Sem Filtros
-O prompt de sistema do VisionSort foi programado para instruir o modelo vision local a classificar livremente qualquer conteúdo, inclusive **Conteúdo Adulto (+18)**, ignorando as políticas de censura corporativas comerciais usuais da web. Como o modelo roda 100% em hardware local e privado, você tem a garantia de que as mídias nunca serão enviadas para servidores terceiros e que a classificação ocorrerá sem recusas ou julgamento moral por parte do LLM.O prompt de sistema do VisionSort foi programado para instruir o modelo vision local a classificar livremente qualquer conteúdo, inclusive **Conteúdo Adulto (+18)**, ignorando as políticas de censura corporativas comerciais usuais da web. Como o modelo roda 100% em hardware local e privado, você tem a garantia de que as mídias nunca serão enviadas para servidores terceiros e que a classificação ocorrerá sem recusas ou julgamento moral por parte do LLM.
+O prompt de sistema do VisionSort foi programado para instruir o modelo vision local a classificar livremente qualquer conteúdo, inclusive **Conteúdo Adulto (+18)**, ignorando as políticas de censura corporativas comerciais usuais da web. Como o modelo roda 100% em hardware local e privado, você tem a garantia de que as mídias nunca serão enviadas para servidores terceiros e que a classificação ocorrerá sem recusas ou julgamento moral por parte do LLM.
 =======
 >>>>>>> fd94739df67267d79e360d4881eabf440bd7b868
